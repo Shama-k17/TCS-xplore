@@ -5,4 +5,8 @@ Here's an example of the expected input and output:
 Input number: 153
 Output: "Yes, the number is an Armstrong number."
 
+
+
+note:for n digits in input number
+put n value instead of 3
 */
